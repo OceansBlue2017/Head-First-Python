@@ -93,15 +93,6 @@ for n in range(3):   #
         print('Not an odd minute.  ' + 'And wait time was '+str(waitTime))
 
 
-
-
-"""
-num = 0
-while num < 5:   #
-    print("it's alomst 15:00 AM Ha ha ha")
-    num = num +1
-"""
-
 # **************    Head First Python Book  Page 45 Nook Code    **************
 
 
